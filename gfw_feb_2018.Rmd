@@ -19,15 +19,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Does an MPA announcement trigger preemptive fishing?
 
-## Phoenix Islands Protected Area
-![](images/gfw_feb_2018/pipa_map.png)
+## Trends in new MPA creation
+![](images/gfw_feb_2018/mpas.png)
 
 ## Fishing effort in PIPA and surrounding EEZ
 ![](images/gfw_feb_2018/pipa_time_series.png)
 
-# How much do EEZs contribute to conservation?
+# Which EEZs contribute most to conservation?
 
-## Look at effort 
+## Global analysis of fishing along EEZ lines
 https://sfg-ucsb.shinyapps.io/gfw-eezs/
 
 # What is the scale of human rights violations in fisheries?
