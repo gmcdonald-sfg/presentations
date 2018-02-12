@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Does an MPA announcement trigger preemptive fishing?
+# Do MPA announcements trigger increased preemptive fishing?
 
 ## Trends in new MPA creation
 ![](images/gfw_feb_2018/mpas.png)
