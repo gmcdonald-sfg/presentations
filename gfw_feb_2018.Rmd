@@ -25,12 +25,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Fishing effort in PIPA and surrounding EEZ
 ![](images/gfw_feb_2018/pipa_time_series.png)
 
-# Which EEZs contribute most to conservation?
+# Which EEZs contribute most to conservation and why?
 
 ## Global analysis of fishing along EEZ lines
 https://sfg-ucsb.shinyapps.io/gfw-eezs/
 
-# What is the scale of human rights violations in fisheries?
+# What are global patterns and trends of human rights violations in fisheries?
 
 ## Thai fishing vessels and human trafficking
 ![](images/gfw_feb_2018/thailand.png)
