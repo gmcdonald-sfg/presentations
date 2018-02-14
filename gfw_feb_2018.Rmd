@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Threat of gun control legislation -> Increased gun sales (and consequently accidental deths) ([Levine and McKnight 2017](http://science.sciencemag.org/content/358/6368/1324.full))
 
-- Is there also a Blue Paradox? Does threat of MPA designation -> Increased preemptive fishing?
+- Is there also a "Blue Paradox"? Does threat of MPA designation -> Increased preemptive fishing?
 
 ## Blue Paradox observed in Phoenix Islands Protected Area
 ![](images/gfw_feb_2018/pipa_time_series.png)
