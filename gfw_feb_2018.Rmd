@@ -19,10 +19,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Do MPA announcements trigger increased preemptive fishing?
 
-## Trends in new MPA creation
+## MPAs are getting bigger
 ![](images/gfw_feb_2018/mpas.png)
 
-## Fishing effort in PIPA and surrounding EEZ
+## Policy announcements often trigger unintended preemptive behavior
+
+- Threat of reduced carbon consumption -> Preemptive rapid extraction of fossil fuels  (Green Paradox, [Sinn 2012](https://books.google.com/books?hl=en&lr=&id=NnwCVOso9vgC&oi=fnd&pg=PR7&dq=green+paradox+sinn&ots=1f-Nfs_snf&sig=J-frgCLBV8G6ksKxbn3eAdC5cG0#v=onepage&q=green%20paradox%20sinn&f=false))
+
+- Threat of land-use restrictions from Endangered Species Act -> Preemptive habitat destruction  ([Lueck and Michaels 2003](http://www.journals.uchicago.edu/doi/abs/10.1086/344670), [List et al. 2006](http://www.nber.org/papers/w12777))
+
+- Threat of gun control legislation -> Increased gun sales (and consequently accidental deths) ([Levine and McKnight 2017](http://science.sciencemag.org/content/358/6368/1324.full))
+
+- Is there also a Blue Paradox? Does threat of MPA designation -> Increased preemptive fishing?
+
+## Blue Paradox observed in Phoenix Islands Protected Area
 ![](images/gfw_feb_2018/pipa_time_series.png)
 
 # Which EEZs contribute most to conservation and why?
