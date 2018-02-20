@@ -32,8 +32,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Is there also a "Blue Paradox"? Does threat of MPA designation -> Increased preemptive fishing?
 
-## Blue Paradox observed in Phoenix Islands Protected Area
+## Phoenix Islands Protected Area (PIPA)
+![](images/gfw_feb_2018/kiribati_eez_map.png)
+
+## Blue Paradox observed
 ![](images/gfw_feb_2018/pipa_time_series.png)
+
+## Potential global significance
+Percentage of fisheries experiencing overfishing goes from 65% to 71%
+![](images/gfw_feb_2018/global_significance.png)
 
 # Which EEZs contribute most to conservation and why?
 
