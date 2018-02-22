@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Do MPA announcements trigger increased preemptive fishing?
 
-## MPAs are getting bigger
+## MPAs are getting bigger and more numerous
 ![](images/gfw_feb_2018/mpas-culm.png)
 
 ## Policy announcements often trigger unintended preemptive behavior
