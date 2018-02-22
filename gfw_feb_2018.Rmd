@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Do MPA announcements trigger increased preemptive fishing?
 
 ## MPAs are getting bigger
-![](images/gfw_feb_2018/mpas.png)
+![](images/gfw_feb_2018/mpas-culm.png)
 
 ## Policy announcements often trigger unintended preemptive behavior
 
@@ -35,8 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Phoenix Islands Protected Area (PIPA)
 ![](images/gfw_feb_2018/kiribati_eez_map.png)
 
-## Blue Paradox observed
-![](images/gfw_feb_2018/pipa_time_series.png)
+## Blue Paradox observed for first time
+![](images/gfw_feb_2018/pipa_time_series2.png)
 
 ## Potential global significance
 Percentage of fisheries experiencing overfishing goes from 65% to 71%
